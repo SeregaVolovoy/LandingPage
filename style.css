@@ -83,7 +83,7 @@ width: 389px;
 height: 389px;
 background-color: #fff;
 border-radius: 50%;
-background-image: url(../img/serega.jpg);
+background-image: url(user-avatar/serega.jpg);
 background-repeat: no-repeat;
 background-position: center top -40px;
 border: 13px solid #fff ;
@@ -151,13 +151,13 @@ line-height: 28px;
 }
 .input-name{
     margin-bottom: 17px;
-    background-image: url(../img/user-icon.png);
+    background-image: url(button-icon/user-icon.png);
     background-repeat: no-repeat;
    background-position: center left 20px;
 }
 .input-phone{
     margin-bottom: 26px;
-    background-image: url(../img/phone-icon.svg);
+    background-image: url(button-icon/phone-icon.svg);
     background-repeat: no-repeat;
     background-position: center left 20px;
 }
